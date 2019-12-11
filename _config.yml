@@ -40,7 +40,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "https://telefonfix.com/"
-url: "https://telefonfix.com/"
+url: ""
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 
