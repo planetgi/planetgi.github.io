@@ -3,6 +3,7 @@ title: Cep Telefonu Tamiri
 date: 2019-12-11
 draft: true
 tags: ["cep telefonu", "tamir"]
+paginate: true
 ---
 
 # Cep Telefonu
