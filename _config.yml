@@ -3,11 +3,11 @@ name: TelefonFix
 title: TelefonFix Akıllı Telefon ve Tablet Tamir İşleri | 2. EL Alım - Satım
 description: Telefon ve tablet ihtiyaçlarınızda , teknik destek ve 2.el alım - satım yapılmaktadır. PArça değişimleri için fiyat alınız.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - telefon
+  - tablet
+  - tamir
+  - teknik destek
+  - 2.el
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
@@ -39,8 +39,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "https://telefonfix.com/ # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "https://telefonfix.com/"
+url: "https://telefonfix.com/"
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 
